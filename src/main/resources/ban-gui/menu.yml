@@ -1,0 +1,28 @@
+title: '&aBan-Gui'
+size: 27
+
+# Actions -> OPEN-BAN | OPEN-WARN | OPEN-MUTE | NONE
+
+items:
+  check:
+    name: '&aCheck <player> bans'
+    item:
+      material: PAPER
+      data: 0
+      amount: 1
+    slot: 0
+    command:
+      enabled: true
+      command: 'check <player>'
+    action: NONE
+  ban:
+    name: '&4Ban'
+    item:
+      material: SKULL_ITEM
+      data: 0
+      amount: 1
+    slot: 4
+    command:
+      enabled: false
+      command: ''
+    action: OPEN-BAN

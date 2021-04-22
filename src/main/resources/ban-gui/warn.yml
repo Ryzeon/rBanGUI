@@ -1,0 +1,15 @@
+title: '&4Warn <player> '
+size: 27
+items:
+  hacks:
+    name: '&4About Public IP'
+    item:
+      material: PAPER
+      data: 0
+      amount: 1
+    slot: 0
+    command: 'mute <player> 10m Public IP'
+    lore:
+      - '&7&m--------------------'
+      - '&aClick to mute <player> public ip.'
+      - '&7&m--------------------'

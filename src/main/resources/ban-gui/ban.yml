@@ -1,0 +1,15 @@
+title: '&aBan <player> '
+size: 27
+items:
+  hacks:
+    name: '&4About Hacks'
+    item:
+      material: PAPER
+      data: 0
+      amount: 1
+    slot: 0
+    command: 'ban <player> 30d Hacks'
+    lore:
+      - '&7&m--------------------'
+      - '&aClick to ban <player> about hacks.'
+      - '&7&m--------------------'

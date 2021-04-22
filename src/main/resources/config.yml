@@ -1,0 +1,8 @@
+SERVER-NAME: 'Kitmap'
+
+DISCORD:
+  ENABLED: false
+  URL: ''
+  NAME: 'rBanGUI'
+  IMAGE: ''
+  FOOTER: '@Ryzeon_'
